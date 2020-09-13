@@ -1,0 +1,24 @@
+.rightSidebar {
+    padding: 25px 10px;
+    flex: 0.33;
+}
+
+.rightSidebar_option {
+    display: flex;
+    /* align-items: center; */
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+.rightSidebar_option > h4 {
+   flex: 1;
+    color: gray;
+    font-size: x-large;
+}
+
+.rightSidebar_option > .MuiSvgIcon-root {
+    margin-left: 5px;
+    font-size: xx-large;
+    color: gray;
+}
